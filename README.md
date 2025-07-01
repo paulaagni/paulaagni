@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Paula Coarasa Lobato
 
-### Desarrollo Multiplataforma | Experiencia como Tech Architecture Analyst Intern @ Accenture | Lead Organizer @ GDSC UMA
+### Desarrollo Multiplataforma | Experiencia como Tech Architecture Analyst Intern @ Accenture | Lead Organizer @ GDG on Campus
 
 Bienvenida/o a mi perfil. Soy desarrolladora de aplicaciones recientemente graduada en desarrollo de software y actualmente lidero el **Google Developer Group on Campus**, donde organizo eventos y talleres para acercar la tecnología a más estudiantes.
 
